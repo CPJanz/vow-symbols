@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import styled from "styled-components";
 import Symbols from "./Symbols";
-import { randomInt } from "crypto";
 
 const SymbolGrid = styled.div`
   display: grid;
